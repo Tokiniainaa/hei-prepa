@@ -170,3 +170,5 @@ Si la lecture de clavier en temps réel est complexe à gérer dans votre enviro
 
 Bon courage, que votre **code** et votre **serpent** soient avec vous…  
 …comme votre ombre ! 🚀🐍  
+
+STD22105- JONATHAN
